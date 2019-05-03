@@ -1,0 +1,1 @@
+# django_cours_manager_beta_v
